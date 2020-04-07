@@ -1,0 +1,29 @@
+##### Manual Git #####
+
+Configurando Usuario
+	*DEFINE O NOME 
+	git config --global user.name "Gregorio Santos"
+	*DEFINE O EMAIL
+	git config --global user.emal "gregoriohd@gmail.com"
+	*DEFINE O EDITOR DE PREFERENCIA
+	git config --global core.editor sublime
+
+Verificando usuario
+	*EXIBE O NOME CONFIGURADO
+	git config user.name
+	*EXIBE O EMAIL CONFIGURADO
+	git config user.email
+	* EXIBE TODA A CONFIGURAÇÃO FEITA
+	git config --list
+
+Inicializar repositório
+	*PERMITE QUE O GIT MONITORE O REPOSITÓRIO(PASTA)
+	git init
+
+Etagios
+	*
+	git status
+	*
+	git add NOME_DO_ARQUIVO
+	
+
