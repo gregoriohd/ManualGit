@@ -49,4 +49,8 @@ Verificando mudanças
 	*EXIBE O NOME DO ARQUIVO QUE SOFREU MODIFICAÇÃO
 	git diff --name-only
 
+Desfazendo mundças
+	*RETORNA O CONTEUDO DO ARQUIVO PARA ANTES DA MUDANÇA
+	git checkout NOME_DO_ARQUIVO
+
 
