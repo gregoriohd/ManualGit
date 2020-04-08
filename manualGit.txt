@@ -39,10 +39,14 @@ Logs
 	*LISTA A QUANTIDADE DE COMMITS QUE CADA AUTOR POSSUI
 	git shortlog -sn
 	*LISTA DE FORMA GRAFICA INFORMAÇOES SOBRE COMMITS E BRANCHS
-	git log graph
+	git log --graph
 	*LISTA O COMMIT ATRAVES DA HASH INFORMADA
 	git show 46b6771fa5e9613583e30605333ed73b9eaa353d
 
-
+Verificando mudanças
+	*EXIBE ALTERÇÃO ANTES DO "git add nome_do_arquivo"
+	git diff
+	*EXIBE O NOME DO ARQUIVO QUE SOFREU MODIFICAÇÃO
+	git diff --name-only
 
 
