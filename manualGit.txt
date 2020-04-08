@@ -54,3 +54,9 @@ Desfazendo mundças
 	git checkout NOME_DO_ARQUIVO
 	*RETORNA O ARQUIVO PARA UM ESTAGIO ANTERIOR ANTES DO COMMIT
 	git reset HEAD NOME_DO_ARQUIVO
+	*Vota para a hash esperando pra ser 'comitada'
+	git reset --soft e173b6d9343391d1523bf7343a44805c5a070bcf
+	*Vota para a hash esperando pra ser adicionada e 'comitada'
+	git reset --mixed e173b6d9343391d1523bf7343a44805c5a070bcf
+	*Volta para o commit da hash
+	git reset --hard e173b6d9343391d1523bf7343a44805c5a070bcf
