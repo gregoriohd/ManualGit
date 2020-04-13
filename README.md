@@ -1,5 +1,5 @@
 # ManualGit
-###### _Uma pesquisa rapida para exercitar o git._
+_Uma pesquisa rapida para exercitar o git._
 
 ## Exemplo de uso
 Exemplos de uso de alguns comandos úteis para entendimento e uso correto do git. [ManualGit](https://github.com/gregoriohd/ManualGit/blob/master/manualGit.txt)
