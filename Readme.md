@@ -1,4 +1,4 @@
-# Manual Git #
+# ManualGit
 ###### _Uma pesquisa rapida para exercitar o git._
 
 Yoda Master
