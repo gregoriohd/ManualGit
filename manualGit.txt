@@ -60,3 +60,4 @@ Desfazendo mundças
 	git reset --mixed e173b6d9343391d1523bf7343a44805c5a070bcf
 	*Volta para o commit da hash
 	git reset --hard e173b6d9343391d1523bf7343a44805c5a070bcf
+Repositório Remoto
